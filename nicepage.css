@@ -42608,7 +42608,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-1 {
   width: 417px;
+  font-size: 1.125rem;
   margin: 49px auto;
+}
+
+.u-footer .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
